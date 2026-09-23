@@ -1,0 +1,7 @@
+numpy>=1.26
+matplotlib>=3.8
+torch>=2.1
+torchvision>=0.16
+pandas>=2.0
+# Optional for AMD/DirectML systems:
+# torch-directml>=0.2.0
