@@ -23,3 +23,7 @@ output/
 
 # Dataset files (local only; keep them out of Git unless you intentionally want to track them)
 data/
+
+# other assignment files
+ITCS_6169_8169_Assignment1.pdf
+data-20260919T063155Z-1-001.zip
