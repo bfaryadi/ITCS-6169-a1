@@ -15,11 +15,9 @@ Thumbs.db
 .vscode/
 
 # Local experiment artifacts
-runs/
 checkpoints/
 *.pth
 *.pt
-output/
 
 # Dataset files (local only; keep them out of Git unless you intentionally want to track them)
 data/
