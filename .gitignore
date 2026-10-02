@@ -14,11 +14,6 @@ __pycache__/
 Thumbs.db
 .vscode/
 
-# Local experiment artifacts
-checkpoints/
-*.pth
-*.pt
-
 # Dataset files (local only; keep them out of Git unless you intentionally want to track them)
 data/
 
